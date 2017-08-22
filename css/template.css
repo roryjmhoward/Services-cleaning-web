@@ -312,7 +312,7 @@ img.img-full-width {
 }
 /* =============== LAYOUT - MENU AREA =============== */
 #nino-navbar {
-	background: #0fd227;
+	background: rgb(51, 230, 123);
 	border: none;
 	border-radius: 0;
 }
