@@ -1002,11 +1002,11 @@ footer .nino-copyright {
 	display: none;
 	cursor: pointer;
 	z-index: 2;
-	background: #E74C3C url(../images/go-to-top.png) center center no-repeat;
+	background: #33e67b url(../images/go-to-top.png) center center no-repeat;
 }
 #nino-scrollToTop:hover {
 	text-decoration: none;
-	background-color: #F75C4C;
+	background-color: #33e67b;
 }
 /* =============== PRETTY PHOTO OVERRIDE =============== */
 div.pp_pic_holder a {
