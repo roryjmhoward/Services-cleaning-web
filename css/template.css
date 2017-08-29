@@ -332,7 +332,7 @@ img.img-full-width {
 #nino-navbar .navbar-nav > li > a:hover,
 #nino-navbar .navbar-nav > .active > a, 
 #nino-navbar .navbar-nav > .active > a:hover {
-	color: #33e67b;
+	color: #fff;
 	border-color: #33e67b;
 	background: none;
 }
