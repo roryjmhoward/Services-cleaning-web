@@ -320,6 +320,7 @@ img.img-full-width {
 	color: #fff;
 	font-weight: 700;
 	font-size: 20px;
+	position: middle;
 }
 #nino-navbar .navbar-nav > li > a {
 	color: #fff;
