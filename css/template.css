@@ -617,7 +617,7 @@ section {
 	top: 50%;
 	width: 40px;
 	height: 2px;
-	background: #f38181;
+	background: #101913;
 	-webkit-transform: translateY(-50%);
 	   -moz-transform: translateY(-50%);
 		 -o-transform: translateY(-50%);
@@ -701,7 +701,7 @@ section {
 #nino-ourTeam .content .nino-icon {
 	display: inline-block;
 	font-size: 25px;
-	color: #f38181;
+	color: #101913;
 	background: #fce38a;
 	padding: 10px;
 	margin: 0 -1px;
@@ -709,7 +709,7 @@ section {
 }
 #nino-ourTeam .content .nino-icon:hover {
 	color: #fff;
-	background: #f38181;
+	background: #101913;
 }
 #nino-ourTeam .info {
 	margin-top: 35px;
@@ -750,7 +750,7 @@ section {
 	bottom: 0;
 	width: 50px;
 	height: 2px;
-	background: #f38181;
+	background: #101913;
 }
 /* =============== SECTION LATEST BLOG =============== */
 #nino-latestBlog article .articleThumb {
@@ -1302,7 +1302,7 @@ div.pp_default .pp_social {
 		display: none;
 	}
 	#nino-slider .carousel-indicators li.active .inner {
-		border-color: #f38181;
+		border-color: #101913;
 	}
 	/* =============== SECTION TESTIMONIAL =============== */
 	.nino-testimonialSlider .nino-symbol,
