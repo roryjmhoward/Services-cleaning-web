@@ -1218,6 +1218,7 @@ div.pp_default .pp_social {
 
 #core-title{
 	display: block;
+	margin-top: 31px;
 }
 #logo{
 	display: block;
@@ -1230,9 +1231,10 @@ div.pp_default .pp_social {
 
 @media (max-width: 640px) {
 	#core-title{
-		display: none;
+		margin-top: 0px;
 	}
 	#logo{
+		display: none;
 		height: 100px;
 		margin-top: 0px;
 		margin-right: 100px;
