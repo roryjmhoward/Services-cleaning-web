@@ -1191,7 +1191,9 @@ div.pp_default .pp_social {
 	#nino-navbar .navbar-collapse {
 		background: rgba(56,56,56,0.95);
 		border-color: #464646;
-		margin-left: 100px;
+		position: absolute;
+		z-index: 1;
+		left: 0px;
 	}
 	#nino-navbar .nino-iconsGroup {
 		position: absolute;
@@ -1203,7 +1205,7 @@ div.pp_default .pp_social {
 		display: inline-block;
 	}
 	#nino-navbar .nino-iconsGroup li a {
-		margin: 0 0 0 0px;
+		margin: 0 0 0 15px;
 		padding: 15px 0 5px;
 	}
 	/* =============== SECTION SERVICES =============== */
