@@ -1162,8 +1162,19 @@ div.pp_default .pp_social {
 	#nino-navbar {
 		background: rgb(51, 230, 123);
 	}
+	#core-title{
+		display: none;
+	}
+	#logo{
+		height: 100px;
+		margin-top: 0px;
+		margin-right: 100px;
+		margin-left: 100px;
+		margin-bottom: 0px;
+
+	}
 	#nino-navbar .navbar-header {
-		padding-right: 80px;
+		padding-right: 0px;
 	}
 	#nino-navbar .navbar-nav > li > a {
 		padding: 10px 5px 5px;
@@ -1180,9 +1191,7 @@ div.pp_default .pp_social {
 	#nino-navbar .navbar-collapse {
 		background: rgba(56,56,56,0.95);
 		border-color: #464646;
-		position: absolute;
-		z-index: 1;
-		left: 0px;
+		margin-left: 100px;
 	}
 	#nino-navbar .nino-iconsGroup {
 		position: absolute;
@@ -1194,7 +1203,7 @@ div.pp_default .pp_social {
 		display: inline-block;
 	}
 	#nino-navbar .nino-iconsGroup li a {
-		margin: 0 0 0 15px;
+		margin: 0 0 0 0px;
 		padding: 15px 0 5px;
 	}
 	/* =============== SECTION SERVICES =============== */
@@ -1205,7 +1214,30 @@ div.pp_default .pp_social {
 	}
 }
 
+#core-title{
+	display: block;
+}
+#logo{
+	display: block;
+	height: 110px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
 @media (max-width: 640px) {
+	#core-title{
+		display: none;
+	}
+	#logo{
+		height: 100px;
+		margin-top: 0px;
+		margin-right: 100px;
+		margin-left: 100px;
+		margin-bottom: 0px;
+
+	}
 	section {
 		padding: 30px 0;
 	}
